@@ -1,1 +1,1 @@
-# Contains several simple, standalone programs coded in C.
+# Contains several C-coded programs. Some are standalone and some are components of larger projects.
